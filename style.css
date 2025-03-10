@@ -288,7 +288,7 @@ body{
 /* Navbar untuk Mobile */
 @media (max-width: 768px) {
     html{
-        font-size: 63%;
+        font-size: 68%;
     }
     .hero {
         background-image: url('img/home-bg-hp.jpg');
@@ -330,7 +330,7 @@ body{
 /* Mobile Phone */
 @media (max-width : 450px){
     html{
-        font-size: 55%;
+        font-size: 60%;
     }
 
     .hero {
